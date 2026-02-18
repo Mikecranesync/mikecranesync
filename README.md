@@ -118,11 +118,11 @@ OpenClaw connects to **real Allen-Bradley Micro820 PLCs** via Modbus TCP, reads 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Mikecranesync/openclaw/pull/4) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
-2. 🎉 Merged PR [#3](https://github.com/Mikecranesync/openclaw/pull/3) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
-3. 🎉 Merged PR [#2](https://github.com/Mikecranesync/openclaw/pull/2) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
-4. 💪 Opened PR [#3](https://github.com/Mikecranesync/openclaw/pull/3) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
-5. 💪 Opened PR [#2](https://github.com/Mikecranesync/openclaw/pull/2) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+1. 🎉 Merged PR [#5](https://github.com/Mikecranesync/openclaw/pull/5) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+2. 💪 Opened PR [#5](https://github.com/Mikecranesync/openclaw/pull/5) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+3. 🎉 Merged PR [#4](https://github.com/Mikecranesync/openclaw/pull/4) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+4. 💪 Opened PR [#4](https://github.com/Mikecranesync/openclaw/pull/4) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+5. 🎉 Merged PR [#3](https://github.com/Mikecranesync/openclaw/pull/3) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
 <!--END_SECTION:activity-->
 
 ---
