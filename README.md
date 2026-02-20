@@ -1,4 +1,4 @@
-# Mike Harpenau
+# Mike Harper
 
 **Maintenance technician turned founder** | 20+ years fixing industrial equipment | Building the AI layer for every PLC
 
