@@ -118,11 +118,11 @@ OpenClaw connects to **real Allen-Bradley Micro820 PLCs** via Modbus TCP, reads 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Mikecranesync/openclaw/pull/6) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
-2. 🎉 Merged PR [#5](https://github.com/Mikecranesync/openclaw/pull/5) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
-3. 💪 Opened PR [#5](https://github.com/Mikecranesync/openclaw/pull/5) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
-4. 🎉 Merged PR [#4](https://github.com/Mikecranesync/openclaw/pull/4) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
-5. 💪 Opened PR [#4](https://github.com/Mikecranesync/openclaw/pull/4) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+1. 🎉 Merged PR [#1](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/1) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
+2. 💪 Opened PR [#1](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/1) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
+3. 💪 Opened PR [#6](https://github.com/Mikecranesync/openclaw/pull/6) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+4. 🎉 Merged PR [#5](https://github.com/Mikecranesync/openclaw/pull/5) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+5. 💪 Opened PR [#5](https://github.com/Mikecranesync/openclaw/pull/5) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
 <!--END_SECTION:activity-->
 
 ---
