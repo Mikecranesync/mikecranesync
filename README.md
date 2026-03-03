@@ -118,11 +118,11 @@ OpenClaw connects to **real Allen-Bradley Micro820 PLCs** via Modbus TCP, reads 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mikecranesync/FactoryLM_OS/pull/1) in [Mikecranesync/FactoryLM_OS](https://github.com/Mikecranesync/FactoryLM_OS)
-2. 💪 Opened PR [#1](https://github.com/Mikecranesync/FactoryLM_OS/pull/1) in [Mikecranesync/FactoryLM_OS](https://github.com/Mikecranesync/FactoryLM_OS)
-3. 🎉 Merged PR [#1](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/1) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
-4. 💪 Opened PR [#1](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/1) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
-5. 💪 Opened PR [#6](https://github.com/Mikecranesync/openclaw/pull/6) in [Mikecranesync/openclaw](https://github.com/Mikecranesync/openclaw)
+1. 🚀 Published release [V2.0.0 — VFD Live Tag Monitoring](https://github.com/Mikecranesync/pi-factory-cosmos/releases/tag/v2.0.0) in [Mikecranesync/pi-factory-cosmos](https://github.com/Mikecranesync/pi-factory-cosmos)
+2. 🚀 Published release [v1.5.0 — Belt Speed Tracker + AI Video Diagnosis](https://github.com/Mikecranesync/pi-factory-cosmos/releases/tag/v1.5.0) in [Mikecranesync/pi-factory-cosmos](https://github.com/Mikecranesync/pi-factory-cosmos)
+3. 🚀 Published release [v1.5.0: Belt Speed Tracker + AI Video Diagnosis](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/releases/tag/v1.5.0) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
+4. 🚀 Published release [v1.0.0 — Pi-Factory Stable Release](https://github.com/Mikecranesync/pi-factory-cosmos/releases/tag/v1.0.0) in [Mikecranesync/pi-factory-cosmos](https://github.com/Mikecranesync/pi-factory-cosmos)
+5. 🚀 Published release [v1.0.0-mvp — Pi-Factory Cookoff Demo](https://github.com/Mikecranesync/pi-factory-cosmos/releases/tag/v1.0.0-mvp) in [Mikecranesync/pi-factory-cosmos](https://github.com/Mikecranesync/pi-factory-cosmos)
 <!--END_SECTION:activity-->
 
 ---
