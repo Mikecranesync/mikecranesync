@@ -118,11 +118,11 @@ OpenClaw connects to **real Allen-Bradley Micro820 PLCs** via Modbus TCP, reads 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V2.0.0 — VFD Live Tag Monitoring](https://github.com/Mikecranesync/pi-factory-cosmos/releases/tag/v2.0.0) in [Mikecranesync/pi-factory-cosmos](https://github.com/Mikecranesync/pi-factory-cosmos)
-2. 🚀 Published release [v1.5.0 — Belt Speed Tracker + AI Video Diagnosis](https://github.com/Mikecranesync/pi-factory-cosmos/releases/tag/v1.5.0) in [Mikecranesync/pi-factory-cosmos](https://github.com/Mikecranesync/pi-factory-cosmos)
-3. 🚀 Published release [v1.5.0: Belt Speed Tracker + AI Video Diagnosis](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/releases/tag/v1.5.0) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
-4. 🚀 Published release [v1.0.0 — Pi-Factory Stable Release](https://github.com/Mikecranesync/pi-factory-cosmos/releases/tag/v1.0.0) in [Mikecranesync/pi-factory-cosmos](https://github.com/Mikecranesync/pi-factory-cosmos)
-5. 🚀 Published release [v1.0.0-mvp — Pi-Factory Cookoff Demo](https://github.com/Mikecranesync/pi-factory-cosmos/releases/tag/v1.0.0-mvp) in [Mikecranesync/pi-factory-cosmos](https://github.com/Mikecranesync/pi-factory-cosmos)
+1. 🎉 Merged PR [#5](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/5) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
+2. 🎉 Merged PR [#1](https://github.com/Mikecranesync/nautobot-docker-compose/pull/1) in [Mikecranesync/nautobot-docker-compose](https://github.com/Mikecranesync/nautobot-docker-compose)
+3. 💪 Opened PR [#1](https://github.com/Mikecranesync/nautobot-docker-compose/pull/1) in [Mikecranesync/nautobot-docker-compose](https://github.com/Mikecranesync/nautobot-docker-compose)
+4. 💪 Opened PR [#5](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/5) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
+5. 🚀 Published release [Pi-Factory V3.0 — Real Hardware Only](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/releases/tag/v3.0.0) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
 <!--END_SECTION:activity-->
 
 ---
