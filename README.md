@@ -118,7 +118,7 @@ OpenClaw connects to **real Allen-Bradley Micro820 PLCs** via Modbus TCP, reads 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/5) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
+1. ❗ Opened issue [#250](https://github.com/nvidia-cosmos/cosmos-cookbook/issues/250) in [nvidia-cosmos/cosmos-cookbook](https://github.com/nvidia-cosmos/cosmos-cookbook)
 2. 🎉 Merged PR [#1](https://github.com/Mikecranesync/nautobot-docker-compose/pull/1) in [Mikecranesync/nautobot-docker-compose](https://github.com/Mikecranesync/nautobot-docker-compose)
 3. 💪 Opened PR [#1](https://github.com/Mikecranesync/nautobot-docker-compose/pull/1) in [Mikecranesync/nautobot-docker-compose](https://github.com/Mikecranesync/nautobot-docker-compose)
 4. 💪 Opened PR [#5](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/5) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
