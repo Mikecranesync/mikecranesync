@@ -118,11 +118,11 @@ OpenClaw connects to **real Allen-Bradley Micro820 PLCs** via Modbus TCP, reads 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#250](https://github.com/nvidia-cosmos/cosmos-cookbook/issues/250) in [nvidia-cosmos/cosmos-cookbook](https://github.com/nvidia-cosmos/cosmos-cookbook)
-2. 🎉 Merged PR [#1](https://github.com/Mikecranesync/nautobot-docker-compose/pull/1) in [Mikecranesync/nautobot-docker-compose](https://github.com/Mikecranesync/nautobot-docker-compose)
-3. 💪 Opened PR [#1](https://github.com/Mikecranesync/nautobot-docker-compose/pull/1) in [Mikecranesync/nautobot-docker-compose](https://github.com/Mikecranesync/nautobot-docker-compose)
-4. 💪 Opened PR [#5](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/pull/5) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
-5. 🚀 Published release [Pi-Factory V3.0 — Real Hardware Only](https://github.com/Mikecranesync/factorylm-cosmos-cookoff/releases/tag/v3.0.0) in [Mikecranesync/factorylm-cosmos-cookoff](https://github.com/Mikecranesync/factorylm-cosmos-cookoff)
+1. 🎉 Merged PR [#128](https://github.com/Mikecranesync/factorylm/pull/128) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+2. 💪 Opened PR [#128](https://github.com/Mikecranesync/factorylm/pull/128) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+3. 💪 Opened PR [#127](https://github.com/Mikecranesync/factorylm/pull/127) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+4. 🎉 Merged PR [#126](https://github.com/Mikecranesync/factorylm/pull/126) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+5. 💪 Opened PR [#126](https://github.com/Mikecranesync/factorylm/pull/126) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
 <!--END_SECTION:activity-->
 
 ---
