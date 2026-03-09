@@ -118,11 +118,11 @@ OpenClaw connects to **real Allen-Bradley Micro820 PLCs** via Modbus TCP, reads 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/Mikecranesync/factorylm/pull/132) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
-2. 💪 Opened PR [#131](https://github.com/Mikecranesync/factorylm/pull/131) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
-3. 🎉 Merged PR [#130](https://github.com/Mikecranesync/factorylm/pull/130) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
-4. 💪 Opened PR [#130](https://github.com/Mikecranesync/factorylm/pull/130) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
-5. 🎉 Merged PR [#129](https://github.com/Mikecranesync/factorylm/pull/129) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+1. 🎉 Merged PR [#124](https://github.com/Mikecranesync/factorylm/pull/124) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+2. 🎉 Merged PR [#122](https://github.com/Mikecranesync/factorylm/pull/122) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+3. 🎉 Merged PR [#127](https://github.com/Mikecranesync/factorylm/pull/127) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+4. 🎉 Merged PR [#131](https://github.com/Mikecranesync/factorylm/pull/131) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
+5. 🎉 Merged PR [#132](https://github.com/Mikecranesync/factorylm/pull/132) in [Mikecranesync/factorylm](https://github.com/Mikecranesync/factorylm)
 <!--END_SECTION:activity-->
 
 ---
